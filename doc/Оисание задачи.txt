@@ -8,3 +8,5 @@
 8. Как связать коммиты - https://cloud.yandex.ru/docs/tracker/manager/add-repository
 9. Как настроить статусы во вложенном файле и по ссылке - https://cloud.yandex.ru/docs/tracker/manager/workflow
 
+
+10. Тестировать
